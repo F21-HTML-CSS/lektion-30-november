@@ -6,6 +6,12 @@
 
 ## Artiklar
 
+**CSS Animation:** https://thoughtbot.com/blog/css-animation-for-beginners
+
+**Animation principles:** https://cssanimation.rocks/principles/
+
 ## Videor
+
+Pseudo elements: https://www.youtube.com/watch?v=zGiirUiWslI
 
 ## Inspelning
